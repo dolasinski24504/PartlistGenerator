@@ -1,0 +1,7 @@
+C:\Users\DolaX\Desktop\Sharp\Moje\PartlistGerator\PartlistGeneratorCore\PartlistGeneratorCore\bin\Debug\PartlistGeneratorCore.exe.config
+C:\Users\DolaX\Desktop\Sharp\Moje\PartlistGerator\PartlistGeneratorCore\PartlistGeneratorCore\bin\Debug\PartlistGeneratorCore.exe
+C:\Users\DolaX\Desktop\Sharp\Moje\PartlistGerator\PartlistGeneratorCore\PartlistGeneratorCore\bin\Debug\PartlistGeneratorCore.pdb
+C:\Users\DolaX\Desktop\Sharp\Moje\PartlistGerator\PartlistGeneratorCore\PartlistGeneratorCore\obj\Debug\PartlistGeneratorCore.csprojAssemblyReference.cache
+C:\Users\DolaX\Desktop\Sharp\Moje\PartlistGerator\PartlistGeneratorCore\PartlistGeneratorCore\obj\Debug\PartlistGeneratorCore.csproj.CoreCompileInputs.cache
+C:\Users\DolaX\Desktop\Sharp\Moje\PartlistGerator\PartlistGeneratorCore\PartlistGeneratorCore\obj\Debug\PartlistGeneratorCore.exe
+C:\Users\DolaX\Desktop\Sharp\Moje\PartlistGerator\PartlistGeneratorCore\PartlistGeneratorCore\obj\Debug\PartlistGeneratorCore.pdb
